@@ -1,3 +1,7 @@
 #!/usr/bin/env python3
 
-wrong_type = 'abc' + 123
+
+
+sum_of_numbers = 123 + 456
+print(sum_of_numbers)
+
